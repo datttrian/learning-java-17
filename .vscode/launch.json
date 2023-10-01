@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "learning-java-17_e18a13e4"
+    },
+    {
+      "type": "java",
       "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
